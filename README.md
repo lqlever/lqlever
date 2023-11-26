@@ -1,5 +1,7 @@
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/lqlever/lqlever/blob/master/devcard.svg" width="400" alt="Lazerick Lever's Dev Card"/></a>
 
+<a href="https://app.daily.dev/lazericklever"><img src="https://api.daily.dev/devcards/75e117f2143b4ec98c024835058798e4.png?r=yue" width="400" alt="Lazerick Lever's Dev Card"/></a>
+
 <!--
 
 ### Hi there 👋
