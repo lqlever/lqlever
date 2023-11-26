@@ -1,6 +1,9 @@
-### Hi there 👋
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/lqlever/lqlever/blob/master/devcard.svg" width="400" alt="Lazerick Lever's Dev Card"/></a>
 
 <!--
+
+### Hi there 👋
+
 **lqlever/lqlever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
